@@ -15,5 +15,11 @@
 		</birth>
 		<nickname>fong fong</nickname>
 		<salary>200000</salary>
+		<styles>
+			<style>BM138</style>
+			<style>whatever</style>
+			<style>NM129</style>
+			<style>NM129</style>
+		</styles>
 	</staff>
 </company>
