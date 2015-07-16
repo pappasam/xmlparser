@@ -10,9 +10,10 @@
 	<staff>
 		<g:firstname>low</g:firstname>
 		<g:lastname>yin fong</g:lastname>
-		<birth>
+		<favoriteyear>
 			<year>2012</year>
-		</birth>
+			<year>2013</year>
+		</favoriteyear>
 		<nickname>fong fong</nickname>
 		<salary>200000</salary>
 		<styles>
